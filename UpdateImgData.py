@@ -1,3 +1,4 @@
+#file used simply to chack basic update functions on mongo
 import pymongo
 from datetime import datetime
 from bson.objectid import ObjectId
